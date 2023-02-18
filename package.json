@@ -81,10 +81,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/Hex-ULTRA-Tech-Ofc/Queen-Enza-MD.git",
+  "repository": "git+https://github.com/MR-Hex-ULTRA-Tech-Ofc/Queen-Enza-MD.git",
   "bugs": {
-    "url": "https://github.com/Hex-ULTRA-Tech-Ofc/Queen-Enza-MD/issues"
+    "url": "https://github.com/MR-Hex-ULTRA-Tech-Ofc/Queen-Enza-MD/issues"
   },
-  "homepage": "https://github.com/Hex-ULTRA-Tech-Ofc/Queen-Enza-MD#readme",
+  "homepage": "https://github.com/MR-Hex-ULTRA-Tech-Ofc/Queen-Enza-MD#readme",
   "main": "index.js"
 }

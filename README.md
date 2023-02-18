@@ -59,8 +59,8 @@
 ##
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/MR-Hex-ULTRA-Tech-Ofc/Queen-Anya-MD
-cd Queen Anya MD
+git clone https://github.com/MR-Hex-ULTRA-Tech-Ofc/Queen-Enza-MD
+cd Queen-Enza-MD
 
 npm start
 ```

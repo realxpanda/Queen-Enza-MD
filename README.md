@@ -100,7 +100,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ##
 ### `Repo Stats`
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MR-Hex-ULTRA-Tech-Ofc&repo=Queen-Enza-MD&theme=vision-friendly-dark)]([https://github.com/PikaBotz/Anya-pika-MD-v2](https://github.com/Hex-ULTRA-Tech-Ofc/Queen-Enza-MD))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MR-Hex-ULTRA-Tech-Ofc&repo=Queen-Enza-MD&theme=vision-friendly-dark)](https://github.com/MR-Hex-ULTRA-Tech-Ofc/Queen-Enza-MD)
 
 ##
 
